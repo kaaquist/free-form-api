@@ -1,5 +1,5 @@
-name := "example-service"
-version := "1.0"
+name := "free-form-api"
+
 scalaVersion := "2.11.8"
 organization := "com.goejl.v1"
 
