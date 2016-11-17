@@ -3,7 +3,8 @@ name := "free-form-api"
 scalaVersion := "2.11.8"
 organization := "com.goejl.v1"
 
-val dockerRegistry = "hub.docker.com"
+val dockerRegistry = "hub.docker.com/r"
+
 
 scalacOptions := Seq("-unchecked", "-deprecation", "-feature", "-encoding", "utf8")
 
